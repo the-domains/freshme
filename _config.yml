@@ -1,6 +1,6 @@
 name: FreshMe
 favicon: null
-layout_spectrum: 0.24836
+layout_spectrum: 0.37479
 typography_spectrum: 0.74745
 title: от Арон
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f8b000'
     - '#e84e1c'
     - '#94c11e'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.1875
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
