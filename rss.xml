@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[FreshMe от Арон]]></title>
         <description><![CDATA[FreshMe от Арон]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/freshme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 17:33:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 17:38:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/freshme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&Zcy;&ncy;&acy;&iecy;&shcy; &lcy;&icy;&comma; &chcy;&iecy; &vcy;&hardcy;&vcy; FreshMe &ocy;&tcy; &Acy;&Rcy;&Ocy;&Ncy; &mcy;&ocy;&zhcy;&iecy;&mcy; &dcy;&acy; &tcy;&icy; &pcy;&rcy;&iecy;&dcy;&lcy;&ocy;&zhcy;&icy;&mcy; &gcy;&ocy;&lcy;&yacy;&mcy;&ocy; &rcy;&acy;&zcy;&ncy;&ocy;&ocy;&bcy;&rcy;&acy;&zcy;&icy;&iecy; &ocy;&tcy; &pcy;&iecy;&chcy;&iecy;&ncy;&icy; &icy; &scy;&ucy;&rcy;&ocy;&vcy;&icy; &yacy;&dcy;&kcy;&icy; &icy; &scy;&iecy;&mcy;&iecy;&ncy;&acy;&period; FreshMe &ocy;&tcy; &Acy;&Rcy;&Ocy;&Ncy;&comma; &Tcy;&vcy;&ocy;&yacy;&tcy;&acy; &dcy;&ncy;&iecy;&vcy;&ncy;&acy; &dcy;&ocy;&zcy;&acy; &scy;&vcy;&iecy;&zhcy;&iecy;&scy;&tcy;" src="https://scontent.xx.fbcdn.net/hphotos-xft1/t31.0-8/s720x720/12304155_452146974975381_8124456579079320252_o.jpg">]]></description>
+            <link>https://www.facebook.com/FreshMeotAron/photos/a.446059082250837.1073741827.446050508918361/452146974975381/?type=3</link>
+            <guid isPermaLink="false">74c04889-fdfe-403e-a0c8-74dc6419e226</guid>
+            <pubDate>Mon, 14 Dec 2015 17:38:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&Rcy;&acy;&bcy;&ocy;&tcy;&ncy;&icy;&yacy;&tcy; &dcy;&iecy;&ncy; &scy;&vcy;&hardcy;&rcy;&shcy;&icy;&excl; &Ncy;&icy;&iecy; &ocy;&tcy; FreshMe &ocy;&tcy; &Acy;&Rcy;&Ocy;&Ncy; &tcy;&icy; &pcy;&rcy;&iecy;&dcy;&lcy;&acy;&gcy;&acy;&mcy;&iecy; &dcy;&acy; &vcy;&hardcy;&zcy;&tcy;&acy;&ncy;&ocy;&vcy;&icy;&shcy; &scy;&vcy;&ocy;&icy;&tcy;&iecy; &scy;&icy;&lcy;&icy; &scy; &iecy;&dcy;&icy;&ncy; &kcy;&acy;&chcy;&iecy;&scy;&tcy;&vcy;&iecy;&ncy; &fcy;&rcy;&iecy;&shcy; &pcy;&rcy;&icy; &ncy;&acy;&scy;&period;" src="https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/12362930_453821408141271_3316878626643787902_o.jpg">]]></description>
