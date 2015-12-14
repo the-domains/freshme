@@ -24,10 +24,10 @@ author:
           - 216
 related: []
 publisher:
-  url: 'http://www.facebook.com'
   name: Facebook
-  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
   domain: www.facebook.com
+  url: 'http://www.facebook.com'
+  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
 keywords:
   - freshme
   - viewerdownloadmake
@@ -52,13 +52,15 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/FreshMeotAron/photos/a.446059082250837.1073741827.446050508918361/451992278324184/?type=3'
-datePublished: '2015-12-14T18:07:17.819Z'
-dateModified: '2015-12-14T18:05:28.941Z'
+datePublished: '2015-12-14T19:39:35.651Z'
+dateModified: '2015-12-14T19:39:27.135Z'
 sourcePath: _posts/2015-12-14-znaesh-li-che-vuv-freshme-ot-aron-mozhesh-da-poruchash-i-da-prigo.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
