@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.facebook.com'
   name: Facebook
-  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
   domain: www.facebook.com
+  url: 'http://www.facebook.com'
+  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
 keywords:
   - freshme
   - viewerdownloadmake
@@ -33,13 +33,15 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/FreshMeotAron/photos/a.446059082250837.1073741827.446050508918361/451993598324052/?type=3'
-datePublished: '2015-12-14T17:56:08.584Z'
-dateModified: '2015-12-14T17:54:57.302Z'
+datePublished: '2015-12-15T07:37:15.552Z'
+dateModified: '2015-12-14T18:25:10.930Z'
 sourcePath: _posts/2015-12-14-nie-ot-freshme-ot-aron-s-udovolstvie-iskame-da-suobshim-che-v.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
