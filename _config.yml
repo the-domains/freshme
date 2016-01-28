@@ -1,7 +1,7 @@
 name: FreshMe
 favicon: null
-layout_spectrum: 0.48754
-typography_spectrum: 0.75317
+layout_spectrum: 0.36676
+typography_spectrum: 0.25157
 title: FreshMe
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#f9d1a8'
     - '#8eba44'
     - '#e33434'
-  brandStrength: 0.25
-  lightness: 0.25
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
